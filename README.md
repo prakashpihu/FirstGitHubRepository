@@ -1,2 +1,2 @@
-# FirstGitHubRepository
+# FirstGitHubRepository is awsome
 FirstGitHubRepository
